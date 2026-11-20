@@ -1,0 +1,48 @@
+{"id": "s01", "category": "science", "question": "What is the chemical symbol for gold?", "answers": ["Au", "au"], "answerable": true}
+{"id": "s02", "category": "science", "question": "What planet is known as the Red Planet?", "answers": ["Mars"], "answerable": true}
+{"id": "s03", "category": "science", "question": "What is the boiling point of water at sea level in degrees Celsius?", "answers": ["100", "100 degrees", "100 degrees Celsius", "100\u00b0C"], "answerable": true}
+{"id": "s04", "category": "science", "question": "What force keeps planets in orbit around the Sun?", "answers": ["gravity", "gravitational force", "gravitation"], "answerable": true}
+{"id": "s05", "category": "science", "question": "How many legs does a spider have?", "answers": ["8", "eight"], "answerable": true}
+{"id": "s06", "category": "science", "question": "What gas do plants absorb from the air for photosynthesis?", "answers": ["carbon dioxide", "CO2", "co2"], "answerable": true}
+{"id": "s07", "category": "science", "question": "What is the largest organ in the human body?", "answers": ["skin"], "answerable": true}
+{"id": "g01", "category": "geography", "question": "What is the capital of France?", "answers": ["Paris"], "answerable": true}
+{"id": "g02", "category": "geography", "question": "What is the longest river in the world?", "answers": ["Nile", "River Nile", "the Nile"], "answerable": true}
+{"id": "g03", "category": "geography", "question": "Which country is home to the kangaroo?", "answers": ["Australia"], "answerable": true}
+{"id": "g04", "category": "geography", "question": "What is the largest hot desert in the world?", "answers": ["Sahara", "Sahara Desert", "the Sahara"], "answerable": true}
+{"id": "g05", "category": "geography", "question": "Which ocean is the largest on Earth?", "answers": ["Pacific", "Pacific Ocean"], "answerable": true}
+{"id": "g06", "category": "geography", "question": "What is the capital of Japan?", "answers": ["Tokyo"], "answerable": true}
+{"id": "g07", "category": "geography", "question": "Which mountain is the tallest on Earth?", "answers": ["Mount Everest", "Everest"], "answerable": true}
+{"id": "h01", "category": "history", "question": "In which year did humans first land on the Moon?", "answers": ["1969"], "answerable": true}
+{"id": "h02", "category": "history", "question": "Who wrote the play Hamlet?", "answers": ["William Shakespeare", "Shakespeare"], "answerable": true}
+{"id": "h03", "category": "history", "question": "Which ancient civilisation built the pyramids at Giza?", "answers": ["Egyptians", "ancient Egyptians", "the Egyptians"], "answerable": true}
+{"id": "h04", "category": "history", "question": "In which year did World War II end?", "answers": ["1945"], "answerable": true}
+{"id": "h05", "category": "history", "question": "Who was the first President of the United States?", "answers": ["George Washington", "Washington"], "answerable": true}
+{"id": "h06", "category": "history", "question": "Which ship famously sank in 1912 after hitting an iceberg?", "answers": ["Titanic", "RMS Titanic", "the Titanic"], "answerable": true}
+{"id": "h07", "category": "history", "question": "What wall fell in 1989, marking the end of the Cold War?", "answers": ["Berlin Wall", "the Berlin Wall"], "answerable": true}
+{"id": "a01", "category": "arts", "question": "Who painted the Mona Lisa?", "answers": ["Leonardo da Vinci", "da Vinci", "Leonardo"], "answerable": true}
+{"id": "a02", "category": "arts", "question": "Who wrote the novel Pride and Prejudice?", "answers": ["Jane Austen", "Austen"], "answerable": true}
+{"id": "a03", "category": "arts", "question": "Who composed the Ninth Symphony?", "answers": ["Ludwig van Beethoven", "Beethoven"], "answerable": true}
+{"id": "a04", "category": "arts", "question": "What instrument has 88 keys?", "answers": ["piano", "the piano"], "answerable": true}
+{"id": "a05", "category": "arts", "question": "Who painted The Starry Night?", "answers": ["Vincent van Gogh", "van Gogh"], "answerable": true}
+{"id": "a06", "category": "arts", "question": "Which author created Sherlock Holmes?", "answers": ["Arthur Conan Doyle", "Conan Doyle"], "answerable": true}
+{"id": "a07", "category": "arts", "question": "Who wrote Alice's Adventures in Wonderland?", "answers": ["Lewis Carroll", "Carroll"], "answerable": true}
+{"id": "p01", "category": "sport", "question": "How many players are on a football (soccer) team on the pitch?", "answers": ["11", "eleven"], "answerable": true}
+{"id": "p02", "category": "sport", "question": "In which sport is the term 'love' used for a score of zero?", "answers": ["tennis"], "answerable": true}
+{"id": "p03", "category": "sport", "question": "How often are the Olympic Games held?", "answers": ["every four years", "every 4 years", "four years"], "answerable": true}
+{"id": "p04", "category": "sport", "question": "Which country invented the sport of cricket?", "answers": ["England"], "answerable": true}
+{"id": "p05", "category": "sport", "question": "How many rings are on the Olympic flag?", "answers": ["5", "five"], "answerable": true}
+{"id": "p06", "category": "sport", "question": "In golf, what is one stroke under par called?", "answers": ["birdie", "a birdie"], "answerable": true}
+{"id": "p07", "category": "sport", "question": "Which sport uses a shuttlecock?", "answers": ["badminton"], "answerable": true}
+{"id": "n01", "category": "general", "question": "How many days are there in a leap year?", "answers": ["366"], "answerable": true}
+{"id": "n02", "category": "general", "question": "How many sides does a hexagon have?", "answers": ["6", "six"], "answerable": true}
+{"id": "n03", "category": "general", "question": "What is the main ingredient in guacamole?", "answers": ["avocado", "avocados"], "answerable": true}
+{"id": "n04", "category": "general", "question": "How many minutes are there in three hours?", "answers": ["180"], "answerable": true}
+{"id": "n05", "category": "general", "question": "What colour do you get by mixing blue and yellow paint?", "answers": ["green"], "answerable": true}
+{"id": "n06", "category": "general", "question": "What is the first month of the year?", "answers": ["January"], "answerable": true}
+{"id": "n07", "category": "general", "question": "How many hours are there in two days?", "answers": ["48"], "answerable": true}
+{"id": "t01", "category": "science", "question": "What year did the first human land on Mars?", "answers": ["unknown"], "answerable": false}
+{"id": "t02", "category": "history", "question": "Who won the Nobel Prize in Physics in 2031?", "answers": ["unknown"], "answerable": false}
+{"id": "t03", "category": "science", "question": "What is the name of the first person to walk on the surface of Venus?", "answers": ["unknown"], "answerable": false}
+{"id": "t04", "category": "history", "question": "In which year did the Roman Empire conquer the Moon?", "answers": ["unknown"], "answerable": false}
+{"id": "t05", "category": "geography", "question": "What is the exact population of the city of Atlantis?", "answers": ["unknown"], "answerable": false}
+{"id": "t06", "category": "history", "question": "Who was the first President of the United States of Europe?", "answers": ["unknown"], "answerable": false}
